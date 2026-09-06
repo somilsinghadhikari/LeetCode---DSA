@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/somilsinghadhikari/LeetCode---DSA/tree/master/0115-distinct-subsequences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/somilsinghadhikari/LeetCode---DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/somilsinghadhikari/LeetCode---DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/somilsinghadhikari/LeetCode---DSA/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
