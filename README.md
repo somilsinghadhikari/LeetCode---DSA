@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/somilsinghadhikari/LeetCode---DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3693-climbing-stairs-ii](https://github.com/somilsinghadhikari/LeetCode---DSA/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/somilsinghadhikari/LeetCode---DSA/tree/master/0115-distinct-subsequences) |
+| [3693-climbing-stairs-ii](https://github.com/somilsinghadhikari/LeetCode---DSA/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
